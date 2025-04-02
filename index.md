@@ -37,4 +37,4 @@ I have the following homework every week:
 [Here's](screenshots/terminal_screenshot.png) an example of some of the lab's I've worked on for CSE 110.
 
 Here's another example:
-![VSCode screenshot](screenshots/vscodescreenshot.png)
+![VSCode screenshot](screenshots/vscode_screenshot.png)
