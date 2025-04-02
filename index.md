@@ -11,7 +11,7 @@ Here's an example of a piece of code I've written:
 print("Hello World!")
 ```
 
-You can find my LinkedIn [here](edin.com/in/srujam-dave-a17098284/).
+You can find my LinkedIn [here](linkedin.com/in/srujam-dave-a17098284/).
 
 If you got lost, [here's](#srujam-dave) the top of the page.
 
@@ -34,4 +34,7 @@ I have the following homework every week:
 - [x] Worksheets for CSE 101
 - [ ] Labs for CSE 141L
 
-Here's an example of some of the lab's I've worked on for CSE 110.
+[Here's](screenshots/terminal_screenshot.png) an example of some of the lab's I've worked on for CSE 110.
+
+Here's another example:
+![VSCode screenshot](screenshots/vscodescreenshot.png)
